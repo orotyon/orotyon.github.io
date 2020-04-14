@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quick kramdown demo"
+title: "Kramdownデモ"
 description: "A quick demo post to some kramdown features."
 categories: [demo]
 tags: [demo, jekyll]

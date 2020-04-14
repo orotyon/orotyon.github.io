@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A quick demo of Simple Texture theme's code highlighting features"
+title: "Simple Textureのデモ"
 description: "A quick demo of Simple Texture theme's code highlighting features"
 categories: [demo]
 tags: [demo, jekyll]
