@@ -21,7 +21,7 @@ sass:
   style: compressed
 
 # Site Data
-url: # the base hostname & protocol for your site, e.g. https://orotyon.github.io/
+url: # the base hostname & protocol for your site, e.g. https://github.com/orotyon
 baseurl: # the subpath of your site, e.g. /blog
 title: Makoto blog
 description: "自分メモ"
@@ -35,7 +35,7 @@ author:
     - name: facebook
       url:
     - name: github
-      url: https://github.com/orotyon/orotyon.github.io
+      url: https://github.com/orotyon
     - name: instagram
       url:
     - name: linkedin
